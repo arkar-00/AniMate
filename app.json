@@ -1,4 +1,6 @@
 {
   "name": "AniMate",
-  "slug": "AniMate"
+  "slug": "AniMate",
+  "newArchEnabled": true
 }
+
