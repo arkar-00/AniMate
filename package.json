@@ -2,12 +2,14 @@
   "dependencies": {
     "@expo/metro-runtime": "~4.0.0",
     "expo": "^52.0.16",
+    "expo-blur": "~14.0.1",
     "expo-status-bar": "~2.0.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.3",
     "react-native-gesture-handler": "~2.20.2",
     "react-native-reanimated": "~3.16.1",
+    "react-native-safe-area-context": "^5.0.0",
     "react-native-svg": "15.8.0",
     "react-native-web": "~0.19.6"
   },
